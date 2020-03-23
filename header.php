@@ -1,3 +1,3 @@
 <head>
-<title>Pages Title</title>
+<title>Pages Title New</title>
 </head>
