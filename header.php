@@ -1,3 +1,3 @@
 <head>
-<title>Pages Titlee</title>
+<title>Pages Title</title>
 </head>
